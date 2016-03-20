@@ -67,7 +67,7 @@
                 ],
                 'status_method' => [
                     'required' => false,
-                    'type' => 'int',
+                    'type' => 'string',
                     'location' => 'json',
                     'enum' => ['GET','POST'],
                 ],
